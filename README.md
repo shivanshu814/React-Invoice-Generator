@@ -8,7 +8,7 @@ An Invoice creator project built with React. Add itemized items, configure quant
 
 ### Live Demo
 
-https://invoice-generator-react.netlify.app/
+https://invoice-generator-7oc.pages.dev/
 
 ### Screenshots
 
