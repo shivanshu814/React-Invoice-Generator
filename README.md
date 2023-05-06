@@ -19,7 +19,7 @@ https://invoice-generator-7oc.pages.dev/
 ### Installation
 
 ```
-git clone https://github.com/johnuberbacher/invoice-generator
+git clone https://github.com/shivanshu814/React-Invoice-Generator
 npm install
 npm start / npm run build
 
